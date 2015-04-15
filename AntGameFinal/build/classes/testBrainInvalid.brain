@@ -1,0 +1,29 @@
+Sense Aheads 1 3 Food
+Move 2 0
+Mark 0 1
+Unmark 0 1
+PickUp 8 0            
+Flip 3 4 5
+Turn Left 0
+Flip 2 6 7
+Turn Right 0
+Move 0 3                                
+Sense Ahead 9 11 Home
+Move 10 8
+Drop 0
+Flip 3 12 13
+Turn Left 8     
+Flip 2 14 15
+Turn Right 8
+Move 8 11
+Sense LeftAhead 1 3 Food
+Sense RightAhead 1 3 Food
+Sense Here 1 3 Food
+Sense Here 1 3 Friend
+Sense Here 1 3 Foe
+Sense Here 1 3 FriendWithFood
+Sense Here 1 3 FoeWithFood
+Sense Here 1 3 Rock
+Sense Here 1 3 FoeMarker
+Sense Here 1 3 Home
+Sense Here 1 3 FoeHome
